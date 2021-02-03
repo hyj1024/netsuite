@@ -324,10 +324,10 @@ function(dialog, message, query, serverWidget, runtime, url, redirect, task, ) {
 
     function getDepByUserId(userId) {
         const defaultDep = {
-            3261: 1, //段含真 SMT
-            3251: 4, //肖连玲 钣金,
-            // 3264: 1, //李吉玲 smt 装配 其它
-            // 5546: 2,//孟梦/储玲玲    装配
+            3261: 1, 
+            3251: 4, 
+            // 3264: 1,
+            // 5546: 2,
             // 5629: 2,
             3203: 4,
         };
