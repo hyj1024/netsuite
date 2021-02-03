@@ -7,8 +7,8 @@
  * 1.0        20201224      Tyrion      Create      Mark Work Orders Released
  *            20201229                  Deploy
  *
- * scriptURL: https://4850287.app.netsuite.com/app/common/scripting/script.nl?id=576
- * scriptDebuggerUrl: https://debugger.na2.netsuite.com/app/common/scripting/script.nl?id=576
+ * scriptURL: 
+ * scriptDebuggerUrl: 
  *
  */
 define(['N/runtime', 'N/record', ],
