@@ -8,7 +8,7 @@
  *         20210111         Tyrion      Update      02: getItemMOQObjById
  *         20210119         Tyrion      Update      03: getAllItemMOQObj
  *
- * scriptURL: https://4850287.app.netsuite.com/app/common/scripting/script.nl?id=577&whence=
+ * scriptURL: 
  */
 define(['N/query', 'N/cache', ],
 /**
