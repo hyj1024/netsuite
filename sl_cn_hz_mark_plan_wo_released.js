@@ -7,11 +7,11 @@
  * 1.0        20201224      Tyrion      Create      Mark Work Orders Released
  *            20201229      Tyrion      Deploy      Summarize: data 获取即逐行渲染 VS Data整理好再行渲染?
  *
- * scriptURL: https://4850287.app.netsuite.com/app/common/scripting/script.nl?id=574&whence=
- * scriptDebuggerUrl: https://debugger.na2.netsuite.com/app/common/scripting/script.nl?id=574&whence=
+ * scriptURL: 
+ * scriptDebuggerUrl: 
  *
- * pageURL: https://4850287.app.netsuite.com/app/site/hosting/scriptlet.nl?script=574&deploy=1
- * pageDebuggerUrl: https://debugger.na2.netsuite.com/app/site/hosting/scriptlet.nl?script=574&deploy=1
+ * pageURL: 
+ * pageDebuggerUrl: 
  */
 define(['N/ui/dialog', 'N/ui/message', 'N/query', 'N/ui/serverWidget', 'N/runtime', 'N/url', 'N/redirect', 'N/task', ],
 /**
