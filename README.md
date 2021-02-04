@@ -1,4 +1,4 @@
-# netsuite mark workorder released
+# netsuite 标记工单为已发放
 
 文件概述
 <br>
