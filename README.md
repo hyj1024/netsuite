@@ -2,7 +2,7 @@
 
 文件概述
 <br>
-sl_cn_hz_mark_plan_wo_released.js
+sl_cn_hz_mark_plan_wo_released.js <br>
   Suitelet 类型脚本, 事务处理页面渲染 & 提交事务处理;
   
 cs_cn_hz_mark_plan_wo_released.js
